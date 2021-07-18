@@ -1,0 +1,10 @@
+export const RED_LIGHT = "#eb222c";
+export const RED_DARK = "#541213";
+export const BLUE_LIGHT = "#689cd5";
+export const BLUE_DARK = "#2f4193";
+export const GREEN_LIGHT = "#5fb73f";
+export const GREEN_DARK = "#18461f";
+export const GREY_LIGHT = "#8a8a8a";
+export const GREY_DARK = "#4e4e4e";
+export const WHITE = "#fff";
+export const BLACK = "#000";
